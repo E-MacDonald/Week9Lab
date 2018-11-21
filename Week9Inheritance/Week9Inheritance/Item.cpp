@@ -1,3 +1,10 @@
+/*
+    Item.cpp
+    Desciption: Definition file for Item.h
+    Date: 20/11/2018
+    Author: Jamie Neill
+    Copyright: UUM
+*/
 #include"Item.h"
 Item::Item() {
 

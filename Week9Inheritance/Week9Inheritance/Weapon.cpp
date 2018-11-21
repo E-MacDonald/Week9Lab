@@ -1,3 +1,10 @@
+/*
+    Weapon.cpp
+    Desciption: Definition file for Weapon.h
+    Date: 20/11/2018
+    Author: Jamie Neill
+    Copyright: UUM
+*/
 #include"Weapon.h"
 
 Weapon::Weapon() {

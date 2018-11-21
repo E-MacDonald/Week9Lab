@@ -1,3 +1,10 @@
+/*
+    Weapon.h
+    Desciption: Declaration file for Weapon.cpp
+    Date: 20/11/2018
+    Author: Jamie Neill
+    Copyright: UUM
+*/
 #pragma once
 #include"Item.h"
 class Weapon : public Item {

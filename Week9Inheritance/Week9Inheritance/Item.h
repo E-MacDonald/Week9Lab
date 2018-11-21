@@ -1,3 +1,10 @@
+/*
+    Item.h
+    Desciption: Declaration file for Item.cpp
+    Date: 20/11/2018
+    Author: Jamie Neill
+    Copyright: UUM
+*/
 #pragma once
 #include<string>
 class Item {
